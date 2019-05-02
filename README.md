@@ -1,2 +1,2 @@
 # Compiler-Construction
-Compiler for an Arbritary Language
+Compiler for an Arbitrary Language
